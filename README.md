@@ -1,7 +1,7 @@
 #Image Editor
 <hr>
-##See on ![](https://s3.amazonaws.com/media-p.slid.es/uploads/kentcdodds/images/552205/gh-pages.jpg);
-https://petrorudavskyy.github.io/Editor/app/index
+##See on https://petrorudavskyy.github.io/Editor/app/index
+![](https://s3.amazonaws.com/media-p.slid.es/uploads/kentcdodds/images/552205/gh-pages.jpg);
 <hr>
 ##Summary
 <hr>
